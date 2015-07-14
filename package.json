@@ -45,7 +45,8 @@
     "url-loader": "^0.5.5",
     "uuid": "^2.0.1",
     "webpack": "^1.8.5",
-    "webpack-dev-server": "^1.4.7"
+    "webpack-dev-server": "^1.4.7",
+    "belle": "=0.0.36"
   },
   "devDependencies": {
     "babel-eslint": "^3.0.1",
